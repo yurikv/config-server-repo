@@ -1,5 +1,5 @@
-example.property: "I AM A DEV PROPERTY OVERRIDE"
-spring.jpa.database: "POSTGRESQL-ASSET"
+
+spring.jpa.database: "POSTGRESQL"
 spring.datasource.platform:  "postgres"
 spring.jpa.show-sql: "false"
 spring.database.driverClassName: "org.postgresql.Driver"
