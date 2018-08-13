@@ -1,4 +1,3 @@
-s (14 sloc)  656 Bytes
 example.property: "I AM IN THE DEFAULT"
 spring.jpa.database: "POSTGRESQL"
 spring.datasource.platform:  "postgres"
